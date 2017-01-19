@@ -1,0 +1,21 @@
+.spacer {
+  height: 50px;
+}
+
+.team-header {
+  text-align: center;
+  color: #FA6300;
+}
+
+#team-logo {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.team-roster {
+  text-align: center;
+}
