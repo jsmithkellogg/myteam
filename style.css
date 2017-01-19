@@ -16,6 +16,11 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
-.team-roster {
+.team-roster, .team-schedule {
   text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #131F33;
 }
